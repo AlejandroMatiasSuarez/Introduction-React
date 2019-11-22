@@ -1,0 +1,19 @@
+{
+  "name": "introduction-react",
+  "version": "1.0.0",
+  "description": "Proyecto React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroMatiasSuarez/Introduction-React.git"
+  },
+  "author": "Alejandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroMatiasSuarez/Introduction-React/issues"
+  },
+  "homepage": "https://github.com/AlejandroMatiasSuarez/Introduction-React#readme"
+}
