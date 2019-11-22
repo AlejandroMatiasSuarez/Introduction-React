@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlejandroMatiasSuarez/Introduction-React/issues"
   },
-  "homepage": "https://github.com/AlejandroMatiasSuarez/Introduction-React#readme"
+  "homepage": "https://github.com/AlejandroMatiasSuarez/Introduction-React#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
